@@ -10,7 +10,26 @@ A streamlined application for analyzing customer reviews from Flipkart to extrac
 
 This application performs sentiment analysis and feature extraction on Flipkart product reviews to help identify customer preferences, product strengths and weaknesses, and generate recommendations.
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/USERNAME/flipkart-review-analysis/main/assets/dashboard.png)
+![Dashboard Screenshots]
+
+<img width="1432" alt="Screenshot 2025-05-08 at 3 20 06 AM" src="https://github.com/user-attachments/assets/b7033b89-a8fe-4f92-b97b-4a944b716ce4" />
+
+<img width="1414" alt="Screenshot 2025-05-08 at 3 20 27 AM" src="https://github.com/user-attachments/assets/a2d42510-0726-43de-86ed-35c49c098c54" />
+
+<img width="1063" alt="Screenshot 2025-05-08 at 3 21 15 AM" src="https://github.com/user-attachments/assets/3e5b8bfc-3d21-4b6c-abf1-2c75b1c6def9" />
+
+<img width="1055" alt="Screenshot 2025-05-08 at 3 21 57 AM" src="https://github.com/user-attachments/assets/80f58e63-57f5-41ee-a305-119eef39a7ed" />
+
+<img width="1057" alt="Screenshot 2025-05-08 at 3 22 20 AM" src="https://github.com/user-attachments/assets/e44e5293-8c38-4645-8164-9ac4a7992b12" />
+
+<img width="1021" alt="Screenshot 2025-05-08 at 3 22 40 AM" src="https://github.com/user-attachments/assets/2e0f8ade-d00b-4853-be51-661f37155069" />
+
+<img width="1079" alt="Screenshot 2025-05-08 at 3 23 24 AM" src="https://github.com/user-attachments/assets/eba210d4-cc41-4c08-87a8-66420e61f01c" />
+
+<img width="1067" alt="Screenshot 2025-05-08 at 3 23 41 AM" src="https://github.com/user-attachments/assets/a952147d-1569-470d-bba0-8868acc99faf" />
+
+<img width="1055" alt="Screenshot 2025-05-08 at 3 23 57 AM" src="https://github.com/user-attachments/assets/8cc19c72-141f-4418-8ac0-6ba70940e978" />
+
 
 ## ✨ Features
 
